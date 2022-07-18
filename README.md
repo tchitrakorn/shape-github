@@ -1,6 +1,6 @@
 GitHub Fundamentals
 
-Basics:
+Basic:
 
 1. Clone vs Fork
 
