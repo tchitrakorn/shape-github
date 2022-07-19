@@ -19,4 +19,5 @@
 - Git cheat sheets: https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet and https://education.github.com/git-cheat-sheet-education.pdf
 - Getting started: https://joeyklee.github.io/friendly-github-intro/guides/github-essentials/#introduction
 - Beutifying your GitHub profile: https://dev.to/ruppysuppy/beautify-your-github-profile-like-a-pro-5093
+- Project management tools: GitHub Project and Trello (https://trello.com)
 
